@@ -1,6 +1,7 @@
 ####### PERSONAL #########
 weed_data
 *.h5
+*.png
 
 ####### FOR JUPYTER ######
 MANIFEST
