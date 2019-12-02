@@ -1,1 +1,1 @@
-convert -delay 150 -loop 0 con_*.png confusion_all.gif
+convert -delay 100 -loop 0 *_con_*.png confusion_all.gif

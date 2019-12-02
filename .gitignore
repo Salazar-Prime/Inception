@@ -3,6 +3,8 @@ weed_data
 *.h5
 *.png
 !results_all/*.png
+*.pkl 
+*.pth
 
 ####### FOR JUPYTER ######
 MANIFEST
