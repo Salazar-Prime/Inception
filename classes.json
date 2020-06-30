@@ -1,0 +1,9 @@
+{
+	"weed":[
+
+		{"class": "cocklebur"},
+		{"class": "foxtail"}, 
+		{"class": "pigweed"}, 
+		{"class": "ragweed"}
+	]
+}

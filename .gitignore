@@ -1,10 +1,12 @@
 ####### PERSONAL #########
 weed_data
+weed_data_old
 *.h5
 *.png
 !results_all/*.png
 *.pkl 
 *.pth
+*.zip
 
 ####### FOR JUPYTER ######
 MANIFEST
